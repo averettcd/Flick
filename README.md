@@ -1,7 +1,7 @@
 # Flick_Movie_Matching
 **CS-4800 Spring 2021**\
 **Site Function and Design by**\
-Chase Averett\
+Chase Averett
 
 
 ## What is flick?
